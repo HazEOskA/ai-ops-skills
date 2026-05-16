@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg" alt="AI Ops Skills Workspace — OsaTechGPT Product Factory" width="100%" />
+  <img src="./assets/readme/hero.png" alt="AI Ops Skills Workspace — OsaTechGPT Product Factory" width="100%" />
 </p>
 
 # AI Ops Skills Workspace
