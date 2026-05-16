@@ -1,21 +1,52 @@
-# AI Ops Skills
+<p align="center">
+  <img src="./assets/readme/hero.svg" alt="AI Ops Skills Workspace — OsaTechGPT Product Factory" width="100%" />
+</p>
 
-Permanent operating skill system for Claude Code, Claude.ai, ChatGPT Projects, VoltAgent agents, MCP tools, and AI OS / Guardian OS workflows.
+# AI Ops Skills Workspace
 
-## Core rule
+**AI Ops Skills Workspace** is the execution-first operating layer for OsaTechGPT Product Factory.
 
-Before every new project:
-1. Define tools
-2. Define architecture
-3. Define repo structure
-4. Define execution flow
-5. Then implement
+It stores reusable AI skills, workflow templates, runtime contracts, operating rules, and packaged outputs for building serious apps, agents, automations, dashboards, Web3 tools, and business systems without chaos.
 
-## Structure
+This repository is **not** a frontend app, landing page repo, SaaS app, or production runtime engine yet.
 
-- `skills/` - Claude-style skills
-- `references/` - reusable operating rules
-- `docs/` - system architecture
-- `scripts/` - install/export scripts
-- `runtime/` - future VoltAgent/MCP runtime layer
-- `templates/` - reusable templates
+---
+
+## Status
+
+| Layer | Status |
+|---|---|
+| Architecture Lock v1 | Done |
+| Skill Template Lock v1 | Done |
+| Runtime Contracts Lock v1 | Done |
+| Packaging / dist rebuild | Done |
+| Skills Alignment Lock v1 | Done |
+| Product Factory Workspace Lock v1 | Done |
+| Workflow Templates v1 | Done |
+| README Lock v1 | Done |
+
+---
+
+## Core Rule
+
+No guessing.
+
+If project-specific information is missing, ask Osa or run a read-only audit first.
+
+Osa is the source of truth for repo names, paths, tools, APIs, keys, deployment targets, architecture decisions, and project constraints.
+
+---
+
+## Repository Structure
+
+```text
+ai-ops-skills/
+├─ assets/readme/
+├─ docs/
+├─ references/
+├─ templates/
+├─ skills/
+├─ runtime/
+├─ scripts/
+├─ dist/
+└─ README.md
